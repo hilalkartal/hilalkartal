@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hilalkartal
 - 👩🏻‍🎓 I’m currently a computer enginnering student at ITU
-- 🌱 I’m currently learning C++
-- 📫 How to reach me from my email: kartalh21@itu.edu.tr
 
 
 <!---
